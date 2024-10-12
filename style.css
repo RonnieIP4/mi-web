@@ -1,0 +1,33 @@
+#body{
+	background-color: rgb(120,180,180);
+}
+
+#titulo{
+	color: rgb(0,0,180);
+	border: 0.5px;
+	border-style: solid;
+	border-color: rgb(80,80,80);
+	border-radius: 100px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-block-start-width: 5px;
+	border-block-end-width: 3.5px;
+}
+
+.texto{
+	color: rgb(0,0,80);
+} 
+
+/*
+border{
+	solid,
+	dashed,
+	dotted,
+	none,
+	hidden,
+	inset,
+	outset,
+	goobe,
+	double;
+}
+*/
