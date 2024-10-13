@@ -1,33 +1,27 @@
 #body{
+	width: auto;
+	height: auto;
 	background-color: rgb(120,180,180);
-}
+	background-image: url('source/pexels-anete-lusina-5240543.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 
-#titulo{
-	color: rgb(0,0,180);
-	border: 0.5px;
-	border-style: solid;
-	border-color: rgb(80,80,80);
-	border-radius: 100px;
-	border-left-width: 10px;
-	border-right-width: 10px;
-	border-block-start-width: 5px;
-	border-block-end-width: 3.5px;
 }
+#art{
+	height: 300px;
+	width: 300px;
+	border-radius: 10px;
+	background-image: url('source/pexels-todoran-bogdan-256061-783737.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 
+}
+h1.texto1{
+	color: rgb(0,0,80);
+	padding-top: 120px;
+} 
 .texto{
 	color: rgb(0,0,80);
 } 
-
-/*
-border{
-	solid,
-	dashed,
-	dotted,
-	none,
-	hidden,
-	inset,
-	outset,
-	goobe,
-	double;
-}
-*/
